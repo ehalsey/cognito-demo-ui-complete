@@ -10,7 +10,7 @@
         "email",
         "profile",
         "phone",
-        "https://cognito-demo-api.arronharden.com/hello-world.all"                
+        "https://cognito-demo.a-cto.com/hello-world.all"                
     ],
     "apiUri": "https://cognito-demo.a-cto.com"
 }
